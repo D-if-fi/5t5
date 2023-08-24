@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>文章分类--Ash在招聘</title>
+    <title>文章</title>
     <style type="text/css">
     /* 添加CSS样式，是鼠标移到上方时，字体变大变深蓝 */
     .zoom{
@@ -17,7 +17,7 @@
   <body>
     <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>所有文章</h2>
     <br/>
-    <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">关于Ash发布的所有文章</p>
+    <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">关于5t5发布的所有文章</p>
     <div>
       {% for category in site.categories %}
         <h3>{{ category[0] }}</h3>
