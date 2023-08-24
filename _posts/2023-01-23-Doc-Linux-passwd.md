@@ -1,5 +1,5 @@
 ---
-title: "：如何使用 passwd 命令锁定、解锁和检查 Linux 中给定用户帐户的状态"
+title: "如何使用 passwd 命令锁定、解锁和检查 Linux 中给定用户帐户的状态"
 published: true
 categories: [Doc]
 tags: [Linux]
