@@ -1,7 +1,7 @@
 ---
 title: "个人简历"
 published: true
-categories: [简介]
+categories: [个人简介]
 tags: [个人简历]
 ---
 
