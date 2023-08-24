@@ -1,5 +1,5 @@
 ---
-title: "：快速自建 DoH ( DNS over HTTPS) 服务"
+title: "快速自建 DoH ( DNS over HTTPS) 服务"
 published: true
 categories: [Doc]
 tags: [Linux]
